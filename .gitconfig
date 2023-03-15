@@ -1,0 +1,11 @@
+[user]
+	name = Andreas Gompos
+	email = andreas.gompos@gmail.com
+[core]
+	excludesFile = /Users/andreas.gompos/.gitignore
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
