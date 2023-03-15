@@ -9,3 +9,4 @@ brew "tree"
 brew "watch"
 
 cask "visual-studio-code"
+cask "iterm2"
