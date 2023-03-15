@@ -9,4 +9,5 @@ brew "tree"
 brew "watch"
 
 cask "visual-studio-code"
+cask "sublime-text"
 cask "iterm2"
